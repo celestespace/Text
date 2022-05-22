@@ -707,7 +707,6 @@
             //MaxValue();
             #endregion
 
-           
         }//main函数的结束括号        
         #region  方法 ： 输出两个数大的值
         public static int MaxValue()
@@ -728,12 +727,5 @@
             return 0;
         }
         #endregion
-
-        #region 错误的
-        //public static int MaxValue(int a, int b)
-        //{
-        //    return a > b ? a : b;
-        //}
-        #endregion 
     }//class 的结束括号
 }
